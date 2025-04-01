@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-groq
+groq
+PyMuPDF
+faiss-cpu
+reqests
+transformers
+sentence-transformers
